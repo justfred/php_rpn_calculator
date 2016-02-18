@@ -1,0 +1,10 @@
+/** rpn.css */
+
+	.calcbutton {
+		width: 40px;
+	}
+
+	.calcdisplay {
+		border: 1px solid black;
+		width: 180px;
+	}
